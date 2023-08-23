@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6ec9434977d0e143a6a43895de63562, type: 3}
+  m_Name: BuildingsDatabase
+  m_EditorClassIdentifier: 
+  buildingData:
+  - <Name>k__BackingField: TerraFormerBase
+    <ID>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 2176506059569404340, guid: 7fa05799bf78b61489418527013e3524,
+      type: 3}
+    <Cost>k__BackingField: 0
